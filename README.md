@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @THakgvLO
 - 👀 I’m interested in solving enviromental issues using computer science.
-- 🌱 I’m currently learning python.
+- have learned python, c, c++
+- 🌱 I’m currently learning java.
 - 💞️ I’m looking to collaborate on projects that can help solve enviromental issues.
 - 📫 How to reach me: email - slthakgalo04@gmail.com
 
