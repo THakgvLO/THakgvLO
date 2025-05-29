@@ -1,18 +1,18 @@
 # Hi there! I'm Thakgalo 👋
 
-I'm a **problem-solver** at heart, passionate about using **computer science** to tackle **environmental challenges**. With a strong foundation in **Python and C++**, I'm currently expanding my skill set by learning **Java**. My goal is to develop **scalable, accessible, and impactful solutions** that contribute to a better world.
+I'm a **problem-solver** at heart, passionate about using **computer science** to tackle **environmental challenges**. With a foundation in **Python**, I'm currently trying to expand my knowledge on the application of it in data analysis and visualization. I'm also looking to expand my skill set by learning **C++ and Java**. My goal is to develop **scalable, accessible, and impactful solutions** that contribute to a better world.
 
 ## 🌍 What I'm working on
 - Exploring **GIS datasets** to analyze environmental and infrastructural challenges.
 - Building **Python-based applications** with an emphasis on **efficiency and usability**.
-- Experimenting with **LaserCube** for interactive **GIS mapping and spatial visualizations**.
-- Diving deeper into **SQL** to work with large datasets and improve data-driven decision-making.
+- Experimenting with **LaserCube** for interactive **GIS mapping and spatial visualizations** (An interest I'm looking to explore anhd discover - got enticed by it).
+- Diving deeper into **SQL** to work with large datasets and improve data-driven decision-making (I'm improving day by day).
 
 ## 🚀 Skills & Interests
-- **Programming Languages**: Python, C++, Java (learning)
+- **Programming Languages**: Python (trying to master and dive deeper into it), other languages include C++ & Java
 - **Data Analysis & GIS**: ArcGIS Pro, SQL, spatial data processing
-- **Tech & Tools**: DevTools, ngrok, Tkinter (for user-friendly interfaces)
-- **Optimizing workflows**: Stored procedures, triggers, efficient debugging
+- **Tech & Tools** (Still learning and exploring): DevTools, Google Cloud, Tkinter (for user-friendly interfaces)
+- **Optimizing workflows** (Trying to master and explore): Stored procedures, triggers, efficient debugging
 - **Creative & Problem-Solving Mindset**: Bringing structured solutions to complex problems
 
 ## 🤝 Looking to collaborate!
