@@ -1,6 +1,6 @@
 # Hi there! I'm Thakgalo 👋
 
-I'm a **problem-solver** at heart, passionate about using **computer science** to tackle **environmental challenges**. With a foundation in **Python**, I'm currently trying to expand my knowledge on the application of it in data analysis and visualization. I'm also looking to expand my skill set by learning **C++ and Java**. My goal is to develop **scalable, accessible, and impactful solutions** that contribute to a better world.
+I'm a **problem-solver** at heart, passionate about using **computer science** to tackle **environmental challenges**. With a foundation in **Python**, I'm currently trying to expand my knowledge on the application of the programming language in data analysis and visualization. I'm also looking to expand my skill set by learning **C++ and Java**. My goal is to develop **scalable, accessible, and impactful solutions** that contribute to a better world.
 
 ## 🌍 What I'm working on
 - Exploring **GIS datasets** to analyze environmental and infrastructural challenges.
