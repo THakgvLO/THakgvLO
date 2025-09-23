@@ -29,6 +29,7 @@ I'm a **data-driven problem solver** passionate about applying **technology, ana
 
 ### Data Analytics & Visualization  
 <p align="left">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&labelColor=217346&color=217346&logo=microsoft-excel&logoColor=white" alt="Excel" />
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&labelColor=336791&color=336791&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&labelColor=F2C811&color=F2C811&logo=powerbi&logoColor=black" alt="Power BI" />
   <img src="https://img.shields.io/badge/ArcGIS%20Pro-007ac2?style=for-the-badge&labelColor=007ac2&color=007ac2&logo=esri&logoColor=white" alt="ArcGIS Pro" />
